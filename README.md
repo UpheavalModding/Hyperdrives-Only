@@ -1,7 +1,7 @@
 # Hyperdrives-Only
-Current Version: 1.1.1 (May 10th, 2017).
-Built for Stellaris Version 1.6.x.
-Workshop Link: http://steamcommunity.com/sharedfiles/filedetails/?id=881020327
+- Current Version: 1.1.1 (May 10th, 2017).
+- Built for Stellaris Version 1.6.x.
+- Workshop Link: http://steamcommunity.com/sharedfiles/filedetails/?id=881020327
 
 # Description
 This is a small mod intended to help make late-game Hyperdrive-only matches retain the feel. This modifies Warp, Wormhole, Jump, and Psi Jump Drives into all being Hyperdrive-based FTL, but gives them all different characteristics.
