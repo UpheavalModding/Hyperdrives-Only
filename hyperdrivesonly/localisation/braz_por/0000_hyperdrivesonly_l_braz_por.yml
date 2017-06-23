@@ -1,0 +1,16 @@
+﻿l_braz_por:
+ FLEETORDER_MOVE_SINGLESHIP_WINDOWN_HYPERLANE:0 "FTL Wind-down: $DAYS|Y0$ Days"
+ FLEETORDER_MOVE_SINGLESHIP_WINDOWN_HYPERLANE_EXT:0 "Winding down after FTL from $SYSTEM|H$\nProgress: $CUR|Y0$/$COST|Y0$ ($DAYS|Y0$ Days)"
+ 
+ WORMHOLE_DRIVE:0 "Wormhole Modulation Drive I"
+ WORMHOLE_DRIVE_2:0 "Wormhole Modulation Drive II"
+ WORMHOLE_DRIVE_2_desc:0 "The creation of a stable wormhole takes time and requires massive amounts of energy, but the process can be streamlined with the use of special calibrators."
+ WORMHOLE_DRIVE_3:0 "Wormhole Modulation Drive III"
+ WORMHOLE_DRIVE_3_desc:0 "These containment fields allow for the creation of more powerful wormholes without the risk of triggering a sudden subspace energy cascade."
+
+ TECH_UNLOCK_WORMHOLE_1_TITLE:0 "§HUnlocks Component:§! Wormhole Modulation Drive I"
+ TECH_UNLOCK_WORMHOLE_1_DESC:0 "§HWormhole Modulation Drive I§!\n$tech_wormhole_generation_1_desc$"
+ TECH_UNLOCK_WORMHOLE_2_TITLE:0 "§HUnlocks Component:§! Wormhole Modulation Drive II"
+ TECH_UNLOCK_WORMHOLE_2_DESC:0 "§HWormhole Modulation Drive II§!\n$tech_wormhole_generation_2_desc$"
+ TECH_UNLOCK_WORMHOLE_3_TITLE:0 "§HUnlocks Component:§! Wormhole Modulation Drive III"
+ TECH_UNLOCK_WORMHOLE_3DESC:0 "§HWormhole Modulation Drive III§!\n$tech_wormhole_generation_3_desc$"
