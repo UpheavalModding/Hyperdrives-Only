@@ -1,0 +1,12 @@
+# No scope, like on_game_start
+on_monthly_pulse = {
+	events = {
+		hyperdrivesonly.1 # drop-in compatibility
+	}
+}
+
+# No scope, like on_game_start
+on_yearly_pulse = {
+	events = {
+	}
+}

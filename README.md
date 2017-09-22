@@ -1,6 +1,6 @@
 # Hyperdrives-Only
-- Current Version: 1.1.1 (May 10th, 2017).
-- Built for Stellaris Version 1.6.x.
+- Current Version: 1.1.3 (September 21st, 2017).
+- Built for Stellaris Version 1.8.x.
 - Workshop Link: http://steamcommunity.com/sharedfiles/filedetails/?id=881020327
 
 # Description
@@ -42,7 +42,9 @@ Example:
 
 
 
-Changelog
+Changelog:
+- September 21st, 2017: Found the probleem and restored balance to 1.6.x version (i.e. balance should match the mod description once more). 
+- September 21st, 2017: Initial update for 1.8.x. Balance is temporarily reverted so all FTL options are the same (at the same tier they'll have the same windup time, etc.).
 - May 10th, 2017: Initial update for 1.6.x (updated supporting version number).
 - April 13th, 2017: Rebalanced wormhole drives, added new wormhole drives, and removed the 1 day delay that Hyperdrive and Warp drives experienced.
 - April 11th, 2017: Updated localisation file structure. Removed the FLEETORDER_MOVE_SINGLESHIP_WINDOWN_HYPERLANE_EXT text being displayed on drive wind-down.

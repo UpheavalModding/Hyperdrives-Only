@@ -1,14 +1,15 @@
 # Icons set here are the ones show in the actual slot. 
 
 @ftl1 = 5
-@ftl2 = 10
+@ftl2 = 7.5
 @ftl3 = 15
 @ftl4 = 30
 
 @power1 = -5
 @power2 = -7.5
 @power3 = -10
-@power4 = -15
+@power4 = -12.5
+@power5 = -15
 
 #############
 # UTILITIES #
@@ -25,9 +26,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		#ship_windup_mult = -1.0
-		#ship_winddown_mult = 150.0
-		#ship_interstellar_speed_mult = -0.5
+		ship_windup_mult = -1.0
+		ship_winddown_mult = 150.0
+		ship_interstellar_speed_mult = -0.5
 	}
 	
 	ai_weight = {
@@ -50,10 +51,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.25
-		#ship_windup_mult = -1.0
-		#ship_winddown_mult = 110.0
-		#ship_interstellar_speed_mult = -0.35
+		ship_windup_mult = -1.0
+		ship_winddown_mult = 110.0
+		ship_interstellar_speed_mult = -0.35
 	}
 	
 	ai_weight = {
@@ -76,10 +76,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.50
-		#ship_windup_mult = -1.0
-		#ship_winddown_mult = 70.0
-		#ship_interstellar_speed_mult = -0.20
+		ship_windup_mult = -1.0
+		ship_winddown_mult = 70.0
+		ship_interstellar_speed_mult = -0.20
 	}
 	
 	ai_weight = {
@@ -102,9 +101,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		#ship_windup_mult = 150.0
-		#ship_winddown_mult = -1.0
-		#ship_interstellar_speed_mult = -0.6
+		ship_windup_mult = 150.0
+		ship_winddown_mult = -1.0
+		ship_interstellar_speed_mult = -0.6
 	}
 	
 	ai_weight = {
@@ -127,10 +126,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.25
-		#ship_windup_mult = 112.5
-		#ship_winddown_mult = -1.0
-		#ship_interstellar_speed_mult = -0.45
+		ship_windup_mult = 112.5
+		ship_winddown_mult = -1.0
+		ship_interstellar_speed_mult = -0.45
 	}
 	
 	ai_weight = {
@@ -153,10 +151,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.50
-		#ship_windup_mult = 75.0
-		#ship_winddown_mult = -1.0
-		#ship_interstellar_speed_mult = -0.30
+		ship_windup_mult = 75.0
+		ship_winddown_mult = -1.0
+		ship_interstellar_speed_mult = -0.30
 	}
 	
 	ai_weight = {
@@ -179,9 +176,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		#ship_windup_mult = 1.6
-		#ship_winddown_mult = 5
-		#ship_interstellar_speed_mult = 10000
+		ship_windup_mult = 160
+		ship_winddown_mult = 50
+		ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -204,10 +201,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.25
-		#ship_windup_mult = 1.20
-		#ship_winddown_mult = 40
-		#ship_interstellar_speed_mult = 10000
+		ship_windup_mult = 120
+		ship_winddown_mult = 40
+		ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -230,10 +226,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.50
-		#ship_windup_mult = 0.80
-		#ship_winddown_mult = 30
-		#ship_interstellar_speed_mult = 10000
+		ship_windup_mult = 80
+		ship_winddown_mult = 30
+		ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -251,15 +246,14 @@ utility_component_template = {
 	size = small
 	icon = "GFX_ship_part_jump_drive_1"
 	icon_frame = 1
-	power = @power3
+	power = @power4
 	cost = @ftl4
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.75
-		#ship_windup_mult = 40
-		#ship_winddown_mult = -1
-		#ship_interstellar_speed_mult = 1.50
+		ship_windup_mult = 40
+		ship_winddown_mult = -1
+		ship_interstellar_speed_mult = 1.50
 	}
 	
 	ai_weight = {
@@ -278,15 +272,14 @@ utility_component_template = {
 	size = small
 	icon = "GFX_ship_part_psi_jump_drive_1"
 	icon_frame = 1
-	power = @power4
-	cost = @ftl4
+	power = @power5
+	cost = @ftl5
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -0.80
-		#ship_windup_mult = 30
-		#ship_winddown_mult = -1
-		#ship_interstellar_speed_mult = 1.75
+		ship_windup_mult = 30
+		ship_winddown_mult = -1
+		ship_interstellar_speed_mult = 1.75
 	}
 	
 	ai_weight = {

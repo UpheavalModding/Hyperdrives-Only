@@ -1,0 +1,26 @@
+
+#########################################
+#
+# on_action_events
+#
+#########################################
+
+namespace = hyperdrivesonly
+
+# give hyperlane mapping tech if the country does not have it
+country_event = {
+	id = hyperdrivesonly.1
+	title = hyperdrivesonly.1.name
+	desc = hyperdrivesonly.1.desc
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = { has_technology = "tech_hyperlane_mapping" }
+	}
+
+	immediate = {
+		give_technology = { tech = tech_hyperlane_mapping }
+	}
+}
