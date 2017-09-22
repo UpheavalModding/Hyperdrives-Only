@@ -1,0 +1,12 @@
+﻿
+	NShip = {
+		#HYPERLANE_WINDUP 									= 1.0 
+		#HYPERLANE_WINDDOWN 									= 1.0
+		#HYPERLANE_WINDUP_OUTSIDE_BORDER						= 5.0
+		#HYPERDRIVE_INTERSTELLAR_TRAVEL_SPEED 				= 1.0
+	}
+	
+	NEconomy = {
+		WORMHOLE_STATION_MAINTENANCE 						= 0.0
+	}
+	

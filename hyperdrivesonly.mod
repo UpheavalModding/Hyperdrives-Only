@@ -5,5 +5,5 @@ tags={
 	"Fixes"
 	"Spaceships"
 }
-supported_version="1.6.x"
+supported_version="1.8.x"
 picture = "hyperdrivesonlylogo.jpg"

@@ -25,9 +25,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -1.0
-		ship_winddown_mult = 150.0
-		ship_interstellar_speed_mult = -0.5
+		#ship_windup_mult = -1.0
+		#ship_winddown_mult = 150.0
+		#ship_interstellar_speed_mult = -0.5
 	}
 	
 	ai_weight = {
@@ -50,9 +50,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -1.0
-		ship_winddown_mult = 110.0
-		ship_interstellar_speed_mult = -0.35
+		ship_windup_mult = -0.25
+		#ship_windup_mult = -1.0
+		#ship_winddown_mult = 110.0
+		#ship_interstellar_speed_mult = -0.35
 	}
 	
 	ai_weight = {
@@ -75,9 +76,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = -1.0
-		ship_winddown_mult = 70.0
-		ship_interstellar_speed_mult = -0.20
+		ship_windup_mult = -0.50
+		#ship_windup_mult = -1.0
+		#ship_winddown_mult = 70.0
+		#ship_interstellar_speed_mult = -0.20
 	}
 	
 	ai_weight = {
@@ -100,9 +102,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 150.0
-		ship_winddown_mult = -1.0
-		ship_interstellar_speed_mult = -0.6
+		#ship_windup_mult = 150.0
+		#ship_winddown_mult = -1.0
+		#ship_interstellar_speed_mult = -0.6
 	}
 	
 	ai_weight = {
@@ -125,9 +127,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 112.5
-		ship_winddown_mult = -1.0
-		ship_interstellar_speed_mult = -0.45
+		ship_windup_mult = -0.25
+		#ship_windup_mult = 112.5
+		#ship_winddown_mult = -1.0
+		#ship_interstellar_speed_mult = -0.45
 	}
 	
 	ai_weight = {
@@ -150,9 +153,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 75.0
-		ship_winddown_mult = -1.0
-		ship_interstellar_speed_mult = -0.30
+		ship_windup_mult = -0.50
+		#ship_windup_mult = 75.0
+		#ship_winddown_mult = -1.0
+		#ship_interstellar_speed_mult = -0.30
 	}
 	
 	ai_weight = {
@@ -175,9 +179,9 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 160
-		ship_winddown_mult = 50
-		ship_interstellar_speed_mult = 10000
+		#ship_windup_mult = 1.6
+		#ship_winddown_mult = 5
+		#ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -200,9 +204,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 120
-		ship_winddown_mult = 40
-		ship_interstellar_speed_mult = 10000
+		ship_windup_mult = -0.25
+		#ship_windup_mult = 1.20
+		#ship_winddown_mult = 40
+		#ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -225,9 +230,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 80
-		ship_winddown_mult = 30
-		ship_interstellar_speed_mult = 10000
+		ship_windup_mult = -0.50
+		#ship_windup_mult = 0.80
+		#ship_winddown_mult = 30
+		#ship_interstellar_speed_mult = 10000
 	}
 	
 	ai_weight = {
@@ -250,9 +256,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 40
-		ship_winddown_mult = -1
-		ship_interstellar_speed_mult = 1.50
+		ship_windup_mult = -0.75
+		#ship_windup_mult = 40
+		#ship_winddown_mult = -1
+		#ship_interstellar_speed_mult = 1.50
 	}
 	
 	ai_weight = {
@@ -276,9 +283,10 @@ utility_component_template = {
 	ftl = hyperdrive
 
 	ship_modifier = {
-		ship_windup_mult = 30
-		ship_winddown_mult = -1
-		ship_interstellar_speed_mult = 1.75
+		ship_windup_mult = -0.80
+		#ship_windup_mult = 30
+		#ship_winddown_mult = -1
+		#ship_interstellar_speed_mult = 1.75
 	}
 	
 	ai_weight = {
